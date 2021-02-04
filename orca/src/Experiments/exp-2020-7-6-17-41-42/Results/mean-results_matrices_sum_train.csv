@@ -1,0 +1,2 @@
+Dataset-Experiment,Acc,GM,MS,MAE,AMAE,MMAE,RSpearman,Tkendall,Wkappa,TrainTime,TestTime,CrossvalTime,Alpha,CrosProbBin,CrosProbInt,CrosProbReal,ExportRules,IniProbBin,IniProbInt,IniProbReal,LabelsInputs,LabelsOutputs,MaxIteration,MutProbBin,MutProbEachBin,MutProbEachInt,MutProbEachReal,MutProbInt,MutProbReal,Population,SeeRules,Seed,Shift,
+toy-nslvord-prueba,89.473684,80.274156,33.333333,0.210526,0.266667,1.333333,0.788859,0.778499,0.739726,0.689804,0.028198,0.009155,

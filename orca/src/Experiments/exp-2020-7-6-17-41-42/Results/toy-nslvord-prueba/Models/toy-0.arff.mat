@@ -1,0 +1,11260 @@
+# Created by Octave 4.2.2, Mon Jul 06 17:41:43 2020 CEST <juanca@juanca-XPS-13-9360>
+# name: model
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: name
+# type: sq_string
+# elements: 1
+# length: 16
+train_toy-0.arff
+
+
+# name: output
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: cat
+# type: cell
+# rows: 1
+# columns: 5
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+2
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+
+
+
+# name: num
+# type: range
+# base, limit, increment
+1 5 1
+
+
+
+
+# name: knowledgebase
+# type: cell
+# rows: 174
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+5.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.062849
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+S2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.062849
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.062849
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.062849
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+0.1546035
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+S1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.062849
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+0.1546035
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+0.1546035
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.41128
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+CE
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+0.1546035
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.41128
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.41128
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6582349999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.41128
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6582349999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6582349999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6582349999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+5.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+S2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+S1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+CE
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+a
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+b
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+c
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+d
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+5.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+
+
+
+# name: rulebase
+# type: cell
+# rows: 1180
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.9473684210526315
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.10526315789473684
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.02631578947368421
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.25
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.9605263157894737
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.9605263157894737
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+6
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+6
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+6
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+6
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+6
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+13.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+13.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+6
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+6
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+14.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+19.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+0.022021920970068342
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.08140902667695953
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.08140902667695953
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.07140902667695953
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+20
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+12.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+34.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+12.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.4948512585812357
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+-0.3043478260869565
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+0.043478260869565216
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+0.014492753623188406
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+-20.999999999999996
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+22.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+11.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+12.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+12.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.7338056680161943
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5857988165680472
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.8461538461538461
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.7159763313609466
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.8181818181818181
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+11.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+11.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+13.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+14.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+12.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.4887151961220773
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5087151961220773
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.06140902667695953
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.07140902667695953
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+20
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.8919864725775617
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.26143560182734343
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.7583700019131426
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.43190670138657067
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+9.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+22.031096333113855
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+7.343698777704619
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+14.687397555409238
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+7.343698777704619
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+7.343698777704619
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+7.343698777704619
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5526315789473684
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.15384615384615385
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.15384615384615385
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+7.343698777704619
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+7.343698777704619
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+7.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+7.343698777704619
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+7.343698777704619
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3540073067573525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3285864761594077
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.39147678661172475
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.33858647615940773
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+20
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.17104113578449234
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+1.1710411357844923
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+1.1710411357844923
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5308168719943287
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.39034704526149744
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.39034704526149744
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+1.1710411357844923
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+1.1710411357844923
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+5.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+1.1710411357844923
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+1.1710411357844923
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+2.3420822715689846
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+1.1710411357844923
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+3.513123407353477
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+1.1710411357844923
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3540073067573525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3404495260435101
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.39147678661172475
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.35304683428350564
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+20
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5263157894736842
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+0.022021920970068342
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5477778033103741
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.4533974302670975
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.07140902667695953
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+20
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5263157894736842
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3333333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+0.75
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6128880623518298
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5087151961220773
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5087151961220773
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.4987151961220773
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+20
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+4.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5263157894736842
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+14
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3540073067573525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.3404495260435101
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.39147678661172475
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+20
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+19.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.4940923737916219
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+-0.9591836734693876
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.02040816326530612
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.02040816326530612
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+-46.99999999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+48.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+18.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.48897058823529416
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+-0.8235294117647056
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.08823529411764706
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.08823529411764706
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+-9.33333333333333
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+31.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+16.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.4949874686716792
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+-0.9047619047619051
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+0.047619047619047616
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+0.047619047619047616
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+-19.000000000000007
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+20.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+18.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6461074561403509
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.08333333333333345
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5416666666666666
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5416666666666667
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+0.15384615384615402
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+13.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+11.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+13.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+6.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+13.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.4945553539019964
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+-0.9310344827586204
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+0.034482758620689655
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+0.034482758620689655
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+-26.999999999999993
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+28.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+18.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+-1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+
+
+
+# name: rules
+# type: cell
+# rows: 216
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+7
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+R0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.8461538461538461
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+56
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+S1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+CE
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+a
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+b
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+c
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+R1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+28
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.41128
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6582349999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6582349999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.451915
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5998950000000001
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.93525
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+R2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+21
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+B2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6582349999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.97992
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+d
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+R3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+21
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+S2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.062849
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.062849
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+0.062849
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+0.1546035
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+d
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+R4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+35
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+S2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+a
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+0.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+b
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+c
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+2.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+R5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+1.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+30
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+CE
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+0.1546035
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.41128
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.41128
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.6582349999999999
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+S2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.08235
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+0.22719
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+x3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+d
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+3.0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+0
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+5
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 2
+R6
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+0.5416666666666666
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+3
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+1
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+y
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 1
+4
+
+
+
+
+
+# name: type
+# type: sq_string
+# elements: 1
+# length: 4
+weka
+
+
+# name: header
+# type: cell
+# rows: 6
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+@relation NSLVOrd
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 21
+@attribute x1 numeric
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 21
+@attribute x2 numeric
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 23
+@attribute x3 {a,b,c,d}
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 24
+@attribute y {1,2,3,4,5}
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+@data
+
+
+
+
+
+# name: parameters
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 21
+# name: Seed
+# type: scalar
+1286082570
+
+
+# name: LabelsInputs
+# type: scalar
+5
+
+
+# name: LabelsOutputs
+# type: scalar
+5
+
+
+# name: Shift
+# type: scalar
+35
+
+
+# name: Alpha
+# type: scalar
+0.5
+
+
+# name: Population
+# type: scalar
+-1
+
+
+# name: MaxIteration
+# type: scalar
+500
+
+
+# name: IniProbBin
+# type: scalar
+0.9
+
+
+# name: CrosProbBin
+# type: scalar
+0.25
+
+
+# name: MutProbBin
+# type: scalar
+0.5
+
+
+# name: MutProbEachBin
+# type: scalar
+0.17
+
+
+# name: IniProbInt
+# type: scalar
+0.5
+
+
+# name: CrosProbInt
+# type: scalar
+0
+
+
+# name: MutProbInt
+# type: scalar
+0.5
+
+
+# name: MutProbEachInt
+# type: scalar
+0.01
+
+
+# name: IniProbReal
+# type: scalar
+0
+
+
+# name: CrosProbReal
+# type: scalar
+0.25
+
+
+# name: MutProbReal
+# type: scalar
+0.5
+
+
+# name: MutProbEachReal
+# type: scalar
+0.14
+
+
+# name: SeeRules
+# type: scalar
+1
+
+
+# name: ExportRules
+# type: scalar
+1
+
+
+
+
+# name: algorithm
+# type: sq_string
+# elements: 1
+# length: 7
+NSLVOrd
+
+
+
+
